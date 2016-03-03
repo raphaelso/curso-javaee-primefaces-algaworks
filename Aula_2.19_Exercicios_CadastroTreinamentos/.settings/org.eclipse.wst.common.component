@@ -4,6 +4,7 @@
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/webapp"/>
         <property name="context-root" value="Aula_2.19_Exercicios_CadastroTreinamentos"/>
         <property name="java-output-path" value="/Aula_2.19_Exercicios_CadastroTreinamentos/target/classes"/>
     </wb-module>
